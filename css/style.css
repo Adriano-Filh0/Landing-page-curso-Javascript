@@ -99,6 +99,7 @@ tfoot td, table th{
     background-color: var(--light-gray-color);
 }
 
+
 .main-background {
     background-image: url('../assets/main-bg.svg');
     background-size: cover;
@@ -438,4 +439,7 @@ a .heart {
         display: none;
     }
 
+    .contact-form {
+        padding: 2rem;
+    }
 }
