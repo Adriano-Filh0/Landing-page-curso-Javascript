@@ -440,6 +440,7 @@ a .heart {
     }
 
     .contact-form {
-        padding: 2rem;
+        box-sizing: content-box;
+        
     }
 }
